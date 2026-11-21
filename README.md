@@ -24,7 +24,7 @@ The following is a brief description of each tutorial, along with the software u
 - Sergey Ovchinnikov (MIT - Code for Colab version of AlphaFold3 and OpenFold3)
 
 ## Licensing / Weights
-The AlphaFold3 model weights, available at the official [!AlphaFold3 GitHub](https://github.com/google-deepmind/alphafold3), require requesting access directly from Google DeepMind under their [!terms of use](https://github.com/google-deepmind/alphafold3/blob/main/WEIGHTS_TERMS_OF_USE.md). Foundry (RFDiffusion3/RoseTTaFold3/MPNN), OpenFold3, and Boltz-2 model weights are open-source and can be downloaded automatically.
+The AlphaFold3 model weights, available at the official [AlphaFold3 GitHub](https://github.com/google-deepmind/alphafold3), require requesting access directly from Google DeepMind under their [terms of use](https://github.com/google-deepmind/alphafold3/blob/main/WEIGHTS_TERMS_OF_USE.md). Foundry (RFDiffusion3/RoseTTaFold3/MPNN), OpenFold3, and Boltz-2 model weights are open-source and can be downloaded automatically.
 
 ## References
 1. Butcher J, Krishna R, Mitra R, Woodbury SM, Kim D, Brent RI, Li Y, Corley N, Favor A, Chen A, Kim PT, Funk J, Reinoso GB, Wu K, Muraishi A, Eisenach HE, Salike S, Mathis S, Thompson TR, Ruder A, Sehgal E, Kubaney A, Chen J, Politanska Y, Coventry B, Zhang O, Hardy FJ, Qiang B, Didi K, Kazman M, Schaaf LL, DiMaio F, Baker D. Atomic functional site scaffolding in biopolymers with RFdiffusion3. Science. 2026;eaeh2982. doi: 10.1126/science.aeh2982.
